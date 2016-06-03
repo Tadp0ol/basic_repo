@@ -1,0 +1,7 @@
+git remote add origin https://github.com/Tadp0ol/basic_repo.git
+git add .
+git commit -m "add index.html"
+git push origin master
+git add .
+git commit -m "added index.html content"
+git push origin master
